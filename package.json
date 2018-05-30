@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "webpack-dev-server --mode development --config webpack.config.dev.js --inline --hot --content-base app"
+  },
+  "devDependencies": {
+    "ts-loader": "^4.1.0",
+    "typescript": "^2.7.2",
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.12",
+    "webpack-dev-server": "^3.1.1"
+  }
+}
